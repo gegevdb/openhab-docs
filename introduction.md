@@ -22,7 +22,7 @@ h1.welcome {
 
 <h1 class="welcome">Welcome!</h1>
 
-The  **open H**ome  **A**utomation  **B**us (openHAB,  _pronounced ˈəʊpənˈhæb_) is an open source, technology agnostic home automation platform which runs as the center of your smart home!
+The  **open H**ome  **A**utomation  **B**us (openHAB,  _pronouncé ˈəʊpənˈhæb_) is an open source, technology agnostic home automation platform which runs as the center of your smart home!
 
 <div style="clear:both"></div>
 
@@ -32,16 +32,16 @@ Some of openHAB's strengths are:
 - To provide a uniform user interface and a common approach to automation rules across the entire system, regardless of the number of manufacturers and sub-systems involved
 - Giving you the most flexible tool available to make almost any home automation wish come true; if you can think it, odds are that you can implement it with openHAB.
 
-## What You Need to Know Before You Start
+## Ce que vous devez savoir avant de commencer
 
-**When home automation just seems to work, it is always the result of hard work.**
-Home automation is fascinating and requires a considerable investment of your time.
-Here are some key considerations especially for new users. To be successful, you will need to:
+**Lorsque la domotique semble fonctionner, c’est toujours le résultat d’un travail acharné.**
+La domotique est passionnante et demande un investissement de temps considérable.
+Voici quelques considérations clés, en particulier pour les nouveaux utilisateurs. Pour réussir, vous devrez:
 
-- Start slowly and proceed one step at a time
-- Be prepared to learn
-- Remain flexible in how you want to achieve your goal
-- Celebrate all the small successes
+- Commencez lentement et procédez étape par étape
+- Soyez prêt à apprendre
+- Restez flexible dans la manière dont vous souhaitez atteindre votre objectif
+- Célébrez tous les petits succès
 
 Remember, openHAB is just a computer program.
 The computer will only do what _you_ tell it to do.
