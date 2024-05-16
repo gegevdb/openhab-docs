@@ -20,9 +20,9 @@ h1.welcome {
 
 <img src="/openhab-logo-square.png" width="150" height="150" class="intro-logo" />
 
-<h1 class="welcome">Welcome!</h1>
+<h1 class="welcome">Bienvenu!</h1>
 
-The  **open H**ome  **A**utomation  **B**us (openHAB,  _pronouncé ˈəʊpənˈhæb_) is an open source, technology agnostic home automation platform which runs as the center of your smart home!
+The  **open H**ome  **A**utomation  **B**us (openHAB,  _pronouncé ˈəʊpənˈhæb_) est une plate-forme domotique open source et indépendante de la technologie qui constitue le centre de votre maison intelligente !
 
 <div style="clear:both"></div>
 
